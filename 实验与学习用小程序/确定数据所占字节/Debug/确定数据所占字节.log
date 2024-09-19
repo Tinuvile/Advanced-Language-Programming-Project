@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(数据知识小程序.vcxproj, 确定数据所占字节.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  确定数据类型的上下限.cpp
+  确定数据所占字节.vcxproj -> C:\Users\ASUS\OneDrive\桌面\高程项目\实验与学习用小程序\Debug\确定数据类型上下限.exe

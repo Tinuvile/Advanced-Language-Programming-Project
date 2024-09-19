@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56514882-0D71-4C25-BD74-ECBAB5B4496B}|helloworld\\helloworld.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\homework\\helloworld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56514882-0D71-4C25-BD74-ECBAB5B4496B}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helloworld.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\homework\\helloworld\\helloworld.cpp",
+              "RelativeDocumentMoniker": "helloworld\\helloworld.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\homework\\helloworld\\helloworld.cpp",
+              "RelativeToolTip": "helloworld\\helloworld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T11:31:01.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

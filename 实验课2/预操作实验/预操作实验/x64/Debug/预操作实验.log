@@ -1,0 +1,3 @@
+﻿  实验1.cpp
+C:\Users\ASUS\OneDrive\桌面\高程项目\实验课2\预操作实验\预操作实验\实验1.cpp(99,12): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  预操作实验.vcxproj -> C:\Users\ASUS\OneDrive\桌面\高程项目\实验课2\预操作实验\x64\Debug\预操作实验.exe

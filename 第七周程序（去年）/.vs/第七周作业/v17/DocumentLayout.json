@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D993807E-DBAE-4689-BAB8-0A59A2841365}|\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0).vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D993807E-DBAE-4689-BAB8-0A59A2841365}|\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0).vcxproj|solutionrelative:\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DA6DB2-D9F3-4A1E-BF52-DBAD1783F633}|int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38DA6DB2-D9F3-4A1E-BF52-DBAD1783F633}|int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.vcxproj|solutionrelative:int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650E4422-BDD3-432E-93A4-3C274E4BF5FA}|\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{650E4422-BDD3-432E-93A4-3C274E4BF5FA}|\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.vcxproj|solutionrelative:\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439D775-03E6-4636-B9A9-B463D5929993}|\u8F93\u51FA\u5B57\u6BCD\u5854\\\u8F93\u51FA\u5B57\u6BCD\u5854.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2439D775-03E6-4636-B9A9-B463D5929993}|\u8F93\u51FA\u5B57\u6BCD\u5854\\\u8F93\u51FA\u5B57\u6BCD\u5854.vcxproj|solutionrelative:\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394B6405-209E-4B34-9B19-0F3E4B7707CA}|\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\\u5224\u65AD\u662F\u5426\u4E3A\u5E42.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394B6405-209E-4B34-9B19-0F3E4B7707CA}|\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\\u5224\u65AD\u662F\u5426\u4E3A\u5E42.vcxproj|solutionrelative:\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15927247-A0B4-4DA1-8D53-FA2D251494F5}|\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C).vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15927247-A0B4-4DA1-8D53-FA2D251494F5}|\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C).vcxproj|solutionrelative:\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D46184-27FB-4BF6-83A5-332789D7158B}|\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\\u6574\u6570\u5206\u89E3(\u9006\u5E8F).vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D46184-27FB-4BF6-83A5-332789D7158B}|\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\\u6574\u6570\u5206\u89E3(\u9006\u5E8F).vcxproj|solutionrelative:\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875DB8B7-10BB-40AA-8B5E-6E2E6B57B300}|\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{875DB8B7-10BB-40AA-8B5E-6E2E6B57B300}|\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570.vcxproj|solutionrelative:\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A59CC3E-4773-4D73-B730-5B9A930DABE6}|\u6C42\u5E73\u65B9\u548C\\\u6C42\u5E73\u65B9\u548C.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u5E73\u65B9\u548C\\4-b5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A59CC3E-4773-4D73-B730-5B9A930DABE6}|\u6C42\u5E73\u65B9\u548C\\\u6C42\u5E73\u65B9\u548C.vcxproj|solutionrelative:\u6C42\u5E73\u65B9\u548C\\4-b5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE33BEB7-A8A4-4050-9BFE-41C836B1208F}|Legendre\u591A\u9879\u5F0F(C)\\Legendre\u591A\u9879\u5F0F(C).vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\Legendre\u591A\u9879\u5F0F(C)\\4-b6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE33BEB7-A8A4-4050-9BFE-41C836B1208F}|Legendre\u591A\u9879\u5F0F(C)\\Legendre\u591A\u9879\u5F0F(C).vcxproj|solutionrelative:Legendre\u591A\u9879\u5F0F(C)\\4-b6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\\23242-040103-W0701.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u9012\u5F52\u4E13\u573A\\23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b12-\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E48634D-5CBF-40ED-BB5A-3425CBB32A40}|\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E48634D-5CBF-40ED-BB5A-3425CBB32A40}|\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97.vcxproj|solutionrelative:\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56729D72-7AE3-49C3-B677-96D2AB9377D8}|\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56729D72-7AE3-49C3-B677-96D2AB9377D8}|\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.vcxproj|solutionrelative:\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\\23242-040103-W0701.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u9012\u5F52\u4E13\u573A\\23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "RelativeDocumentMoniker": "..\\\u7B2C\u4E03\u5468\\23242-040103-W0701.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u9012\u5F52\u4E13\u573A\\23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\\23242-040103-W0701.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u9012\u5F52\u4E13\u573A\\23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "RelativeToolTip": "..\\\u7B2C\u4E03\u5468\\23242-040103-W0701.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u9012\u5F52\u4E13\u573A\\23242-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T10:49:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "22232-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "DocumentMoniker": "F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "ToolTip": "F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b11-\u6253\u5370\u5B57\u6BCD\u5854.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAADwv0QAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T10:45:12.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "22232-040103-W0701.\u9644\u4EF6 4-b12-\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.cpp",
+              "DocumentMoniker": "F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b12-\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.cpp",
+              "ToolTip": "F:\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\\u7B2C\u4E03\u6B21\u4F5C\u4E1A\\22232-040103-W0701.\u9644\u4EF6 4-b12-\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T16:15:49.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-b12.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp",
+              "RelativeDocumentMoniker": "\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp",
+              "RelativeToolTip": "\u6C49\u8BFA\u5854-\u57FA\u672C\u79FB\u52A8\\4-b12.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAGgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T16:15:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp",
+              "RelativeDocumentMoniker": "int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp",
+              "RelativeToolTip": "int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76\\int\u578B\u8F6Cchar\u578B\u7684\u63A2\u7A76.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T00:19:52.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-b9.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp",
+              "RelativeDocumentMoniker": "\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp",
+              "RelativeToolTip": "\u6590\u6CE2\u90A3\u5951\u6570\u5217(\u9012\u5F52\u5B9E\u73B0)\\4-b9.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T01:23:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "w07-c2-s2.c",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c",
+              "RelativeDocumentMoniker": "\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c",
+              "RelativeToolTip": "\u6C42\u6700\u5927\u516C\u7EA6\u6570\u548C\u6700\u5C0F\u516C\u500D\u6570\\w07-c2-s2.c",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-12T11:26:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "w07-c2-s1.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp",
+              "RelativeDocumentMoniker": "\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp",
+              "RelativeToolTip": "\u7EE9\u6548\u5956\u91D1\u8BA1\u7B97\\w07-c2-s1.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAD4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T11:00:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4-b11.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp",
+              "RelativeDocumentMoniker": "\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp",
+              "RelativeToolTip": "\u8F93\u51FA\u5B57\u6BCD\u5854\\4-b11.cpp",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAIwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T05:57:24.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp",
+              "RelativeDocumentMoniker": "\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp",
+              "RelativeToolTip": "\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C\\\u81EA\u5B9A\u4E49\u51FD\u6570\u5B9E\u9A8C.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T13:20:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4-b10.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp",
+              "RelativeDocumentMoniker": "\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp",
+              "RelativeToolTip": "\u5224\u65AD\u662F\u5426\u4E3A\u5E42\\4-b10.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T01:31:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "4-b8.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp",
+              "RelativeDocumentMoniker": "\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp",
+              "RelativeToolTip": "\u6574\u6570\u5206\u89E3(\u9006\u5E8F)\\4-b8.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T16:03:28.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4-b7.c",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c",
+              "RelativeDocumentMoniker": "\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c",
+              "RelativeToolTip": "\u6574\u6570\u5206\u89E3-\u6B63\u5E8F(C)\\4-b7.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T12:20:46.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "4-b6.c",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\Legendre\u591A\u9879\u5F0F(C)\\4-b6.c",
+              "RelativeDocumentMoniker": "Legendre\u591A\u9879\u5F0F(C)\\4-b6.c",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\Legendre\u591A\u9879\u5F0F(C)\\4-b6.c",
+              "RelativeToolTip": "Legendre\u591A\u9879\u5F0F(C)\\4-b6.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T11:51:33.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "4-b5.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u5E73\u65B9\u548C\\4-b5.cpp",
+              "RelativeDocumentMoniker": "\u6C42\u5E73\u65B9\u548C\\4-b5.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u684C\u9762\\\u9AD8\u7A0B\u9879\u76EE\\\u7B2C\u4E03\u5468\u7A0B\u5E8F\uFF08\u53BB\u5E74\uFF09\\\u6C42\u5E73\u65B9\u548C\\4-b5.cpp",
+              "RelativeToolTip": "\u6C42\u5E73\u65B9\u548C\\4-b5.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T11:34:10.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

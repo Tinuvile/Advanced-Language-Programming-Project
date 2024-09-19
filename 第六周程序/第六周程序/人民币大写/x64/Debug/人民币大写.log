@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\ASUS\OneDrive\桌面\高程项目\新建文件夹\第六周程序\x64\Debug\人民币大写.exe : fatal error LNK1120: 1 个无法解析的外部命令

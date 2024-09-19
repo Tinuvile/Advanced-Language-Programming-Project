@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(cin与cout的基本使用.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  作业代码.cpp
+C:\Users\ASUS\OneDrive\桌面\高程项目\实验与学习用小程序\cin与cout的基本使用\作业代码.cpp(6,25): warning C4474: printf: 格式字符串中传递的参数太多
+  C:\Users\ASUS\OneDrive\桌面\高程项目\实验与学习用小程序\cin与cout的基本使用\作业代码.cpp(6,25):
+  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+  cin与cout的基本使用.vcxproj -> C:\Users\ASUS\OneDrive\桌面\高程项目\实验与学习用小程序\Debug\作业代码.exe

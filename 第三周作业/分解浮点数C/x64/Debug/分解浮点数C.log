@@ -1,0 +1,14 @@
+﻿  3-b3-1.c
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,6): warning C4101: “a”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,36): warning C4101: “k”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,18): warning C4101: “e”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,9): warning C4101: “b”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,21): warning C4101: “f”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,39): warning C4101: “l”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,33): warning C4101: “j”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,30): warning C4101: “i”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,12): warning C4101: “c”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,27): warning C4101: “h”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,24): warning C4101: “g”: 未引用的局部变量
+C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\分解浮点数C\3-b3-1.c(8,15): warning C4101: “d”: 未引用的局部变量
+  分解浮点数C.vcxproj -> C:\Users\ASUS\OneDrive\桌面\高程项目\第三周作业\x64\Debug\分解浮点数C.exe
